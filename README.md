@@ -1,4 +1,4 @@
 # XserverVPSのVNCコンソールでマウスカーソルを使うためのアプリケーション
-XserverVPSのVNCコンソールだとマウスカーソルが表示されないという問題を解決するためのアプリです
-日本語入力がしたい方で、ブラウジングのみの目的だったらChrome拡張機能のGoogleを入れて使うのがオススメです
+XserverVPSのVNCコンソールだとマウスカーソルが表示されないという問題を解決するためのアプリです<br>
+日本語入力がしたい方で、ブラウジングのみの目的だったらChrome拡張機能のGoogleを入れて使うのがオススメです  
 https://chromewebstore.google.com/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab?hl=ja
